@@ -1,0 +1,12 @@
+h1{
+    color: aqua;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+blockquote{
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+}
+p{
+    color: green;
+    font-family: 'Courier New', Courier, monospace;
+}
